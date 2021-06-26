@@ -1,5 +1,5 @@
 # Node Package Management Code-Along
-
+ 
 ## Overview
 
 When using npm, it is often the case that we aren't familiar with _all_ of the
